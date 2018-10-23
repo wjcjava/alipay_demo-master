@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/wangjunchao/Downloads/alipay_demo-master/app/libs/alipaySdk-20180403.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="f7b785abd5bc61332f083610b645b72885e2e995">
+        <dex dex="/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/pre-dexed/debug/alipaySdk-20180403_d526f667bf1dd6a29179b1c74b4c7e12c583c028.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0_2775ab52a62a6b22681f5c5fdfa5a37560cb2ddc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjunchao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0_c2c5a0af0f37d9d8080988ddb93c3fa3dad35357.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.0_1f8aa50b7d28c72e10ae3eb4af19de57268d0ff1.jar" />
+    </item>
+
+</items>
