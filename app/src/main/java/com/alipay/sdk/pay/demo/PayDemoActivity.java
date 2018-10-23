@@ -105,7 +105,7 @@ public class PayDemoActivity extends FragmentActivity {
          * 防止商户私密数据泄露，造成不必要的资金损失，及面临各种安全风险；
          *
          * orderInfo的获取必须来自服务端；
-         * 
+         *
          */
         boolean rsa2 = (RSA2_PRIVATE.length() > 0);
         //Map第三个参数修改过后可转的自定义的金额
