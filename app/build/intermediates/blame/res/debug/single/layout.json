@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/res/merged/debug/layout/pay_external.xml",
+        "source": "/Users/wangjunchao/Downloads/alipay_demo-master/app/src/main/res/layout/pay_external.xml"
+    },
+    {
+        "merged": "/Users/wangjunchao/Downloads/alipay_demo-master/D:\\ainisi\\WS_APP_PAY_SDK_BASE_2.0\\Demo\\AndroidDemo_2.0(SDK_15.5.3)\\alipay_demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pay_external.xml",
+        "source": "/Users/wangjunchao/Downloads/alipay_demo-master/D:\\ainisi\\WS_APP_PAY_SDK_BASE_2.0\\Demo\\AndroidDemo_2.0(SDK_15.5.3)\\alipay_demo\\app\\src\\main\\res\\layout\\pay_external.xml"
+    },
+    {
+        "merged": "/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/res/merged/debug/layout/pay_main.xml",
+        "source": "/Users/wangjunchao/Downloads/alipay_demo-master/app/src/main/res/layout/pay_main.xml"
+    },
+    {
+        "merged": "/Users/wangjunchao/Downloads/alipay_demo-master/D:\\ainisi\\WS_APP_PAY_SDK_BASE_2.0\\Demo\\AndroidDemo_2.0(SDK_15.5.3)\\alipay_demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pay_main.xml",
+        "source": "/Users/wangjunchao/Downloads/alipay_demo-master/D:\\ainisi\\WS_APP_PAY_SDK_BASE_2.0\\Demo\\AndroidDemo_2.0(SDK_15.5.3)\\alipay_demo\\app\\src\\main\\res\\layout\\pay_main.xml"
+    }
+]

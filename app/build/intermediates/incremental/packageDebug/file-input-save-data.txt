@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Tue Oct 23 15:22:28 CST 2018
+2.base=/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/msp_icon.png
+5.set=ANDROID_RESOURCE
+3.base=/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+7.file=/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/msp_demo_title.png
+7.set=ANDROID_RESOURCE
+count=8
+0.file=/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/res/resources-debug.ap_/res/layout/pay_main.xml
+5.base=/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/res/resources-debug.ap_
+4.set=DEX
+6.base=/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/msp_demo_title_bg.png
+1.set=ANDROID_RESOURCE
+7.base=/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/res/resources-debug.ap_/res/layout/pay_external.xml
+6.set=ANDROID_RESOURCE
+0.base=/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/wangjunchao/Downloads/alipay_demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+0.set=ANDROID_RESOURCE
